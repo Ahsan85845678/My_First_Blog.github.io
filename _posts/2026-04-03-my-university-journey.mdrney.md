@@ -1,10 +1,11 @@
 ---
-title: "My Daily Routine"
+title: "My University Journey"
+date: 2026-04-03
 category: "Portfolio"
-tags: ["daily routine", "student life", "college", "productivity", "lifestyle"]
+tags: ["daily routine", "student life", "university", "journey", "lifestyle"]
 ---
 
-# My Daily Routine
+# My University Journey
 
 ## 🌅 Morning
 - I woke up in the morning and got ready.  

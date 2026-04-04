@@ -6,7 +6,7 @@ tags: ["daily routine", "student life", "university", "journey", "lifestyle"]
 ---
 
 # My University Journey
-
+ ![Morning Routine](assets/img/WhatsApp Image 2026-04-04 at 9.30.01 PM.jpeg)
 ## 🌅 Morning
 - I woke up in the morning and got ready.  
 - Then I attended my first lecture.  
